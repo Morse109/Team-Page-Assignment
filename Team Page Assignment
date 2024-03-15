@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Team Page</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Meet Our Team</h1>
+    <nav>
+      <ul>
+        <li><a href="#about">About</a></li>
+        <li><a href="#services">Services</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+  
+  <main>
+    <section class="team-member">
+      <div class="bio">
+        <h2>John Doe</h2>
+        <p>John is our team leader. He has a passion for web development and enjoys hiking in his free time.</p>
+      </div>
+    </section>
+
+    <section class="team-member">
+      <div class="bio">
+        <h2>Jane Smith</h2>
+        <p>Jane is our graphic designer. She loves creating visually appealing designs and exploring new art techniques.</p>
+      </div>
+    </section>
+
+    <section class="team-member">
+      <div class="bio">
+        <h2>Mike Johnson</h2>
+        <p>Mike is our marketing guru. He is passionate about digital marketing strategies and loves playing guitar.</p>
+      </div>
+    </section>
+
+    <section class="team-member">
+      <div class="bio">
+        <h2>Sarah Lee</h2>
+        <p>Sarah is our content writer. She enjoys writing engaging content and practicing yoga in her spare time.</p>
+      </div>
+    </section>
+  </main>
+</body>
+</html>
